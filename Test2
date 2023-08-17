@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <link rel="stylesheet" href="HPBD.css">
+  	<title>Happy Birthday To Thu Uyên</title>
+    <body>
+   		<h1>Thư Chúc Mừng Sinh Nhật của Nguyễn Phạm Thu Uyên</h1>
+        <a href="img/Uyen3.jpg">
+        <button></button>
+        <P> Chúc em Uyên luôn xinh đẹp, mạnh khỏe và thành công trong công việc tại PruVenture</P>
+        </a>
+        <a href="vid/HPBD.mp4">
+        <button class="NQ">Món quà nho nhỏ</button>
+        </a>
+        <a href="img/Uyen1.jpg">
+        <button class="hinhanh">Link nhận quà</button>
+        </a>
+        <div class="one">
+        <img src="img/Uyen2.jpg">
+        </div> 
+<html>
